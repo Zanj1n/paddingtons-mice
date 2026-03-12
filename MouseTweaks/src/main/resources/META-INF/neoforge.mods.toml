@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="${neoLoaderVersion}"
+license="BSD-3-Clause"
+issueTrackerURL="https://github.com/YaLTeR/MouseTweaks/issues"
+
+[[mods]]
+modId="paddysmice"
+version="${version}"
+displayName="Paddys Mice"
+displayURL="https://minecraft.curseforge.com/projects/mouse-tweaks"
+logoFile="mousetweaks_logo.png"
+credits="${modCredits}"
+authors="Ivan Molodetskikh (YaLTeR)"
+description="${modDescription}"
+
+[[mixins]]
+config="mousetweaks.mixins.json"

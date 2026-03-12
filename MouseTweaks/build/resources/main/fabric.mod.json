@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "paddysmice",
+  "version": "2.30",
+  "name": "Paddys Mice",
+  "description": "A mod that enhances the inventory management by adding various additional functions to the usual mouse buttons.",
+  "authors": [
+    "Paddington & Zanjin"
+  ],
+  "contributors": [
+    "Paddington",
+    "Zanjin"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+    "issues": "https://github.com/YaLTeR/MouseTweaks/issues",
+    "sources": "https://github.com/YaLTeR/MouseTweaks"
+  },
+  "license": "BSD-3-Clause",
+  "icon": "icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "yalter.mousetweaks.fabric.MouseTweaksFabric"
+    ],
+    "modmenu": [
+      "yalter.mousetweaks.ModMenuApiImpl"
+    ]
+  },
+  "mixins": [
+    "mousetweaks.mixins.json",
+    "mousetweaks-fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  },
+  "suggests": {}
+}

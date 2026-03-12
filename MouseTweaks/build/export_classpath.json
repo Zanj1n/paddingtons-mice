@@ -1,0 +1,18 @@
+{
+  "projectPath": ":",
+  "classpaths": {
+    "test": [
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\classes\\java\\test",
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\resources\\test"
+    ],
+    "main": [
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\classes\\java\\main",
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\resources\\main",
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\devlibs\\MouseTweaks-fabric-mc1.21.4-2.30-dev.jar"
+    ],
+    "testmodClient": [
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\classes\\java\\testmodClient",
+      "C:\\Users\\ossian\\Desktop\\donut a-c bypassed mods\\MouseTweaks-simpleinv\\MouseTweaks\\build\\resources\\testmodClient"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "paddysmice-testmod",
+  "name": "Paddys Mice Test Mod",
+  "version": "1.0.0",
+  "environment": "client",
+  "depends": {
+    "paddysmice": "*",
+    "fabric-client-gametest-api-v1": "*"
+  },
+  "entrypoints": {
+    "fabric-client-gametest": [
+      "yalter.mousetweaks.test.MouseTweaksClientGameTest"
+    ]
+  }
+}
